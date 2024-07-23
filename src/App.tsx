@@ -39,7 +39,7 @@ const App = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Redux Sucks
+            Redux Rules
           </a>
           <span>, </span>
           <a
@@ -60,6 +60,10 @@ const App = () => {
             Reselect
           </a>
         </span>
+        <li>
+          
+
+        </li>
       </header>
     </div>
   )
