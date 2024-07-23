@@ -39,7 +39,7 @@ const App = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Redux Toolkit
+            Redux Sucks
           </a>
           <span>, </span>
           <a
