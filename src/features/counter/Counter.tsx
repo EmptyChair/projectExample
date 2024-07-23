@@ -64,6 +64,7 @@ export const Counter = () => {
         >
           Add Async
         </button>
+        <button>Component 97</button>
       </div>
     </div>
   )
